@@ -13,3 +13,6 @@ var marks={
     harish:12
 }
 console.log(marks)
+
+
+//JavaScript is a dynamically typed language
