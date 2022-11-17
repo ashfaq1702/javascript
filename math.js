@@ -15,3 +15,20 @@ let a=0.95
 a=Math.ceil(a)
  //function always rounds up and returns the smaller integer greater than or equal to a given number.
 console.log(a)
+
+let ag=Math.pow(2,2) // returns power result
+let yz=Math.sqrt(4)// returns square root
+console.log(ag)
+console.log(yz)
+
+let m= -9.33
+m=Math.abs(m) // always returns positive number
+console.log(m)
+
+let n=null
+n= Math.abs(n) // output: 0
+console.log(n)
+
+let l="hi"
+l=Math.abs(l) // NAN exception
+console.log(l)
