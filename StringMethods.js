@@ -20,4 +20,4 @@ console.log(myString.toLocaleLowerCase().trim()) //lower case
 
 
 let phoneNumber="123-456-789"
-console.log(phoneNumber.replaceAll("-",""))
+console.log(phoneNumber.replaceAll("-",""))  //replaces existing content with given content
