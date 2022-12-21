@@ -1,8 +1,8 @@
 //Switch case is an alternative of else-if ladder, it is much effecient than else-if ladder
 
 
-let grade='pizza'
-switch(grade){
+let grade = 'pizza'
+switch (grade) {
     case 'A':
         console.log('Great')
         break
@@ -19,6 +19,6 @@ switch(grade){
         console.log('failed!')
         break
     default:
-        console.log(grade,'not valid')
+        console.log(grade, 'not valid')
         break
 }
