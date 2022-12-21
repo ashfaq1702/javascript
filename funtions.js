@@ -1,19 +1,19 @@
 // Good for code reusability, life would've been tough for a programmer without funtions
 
-let age,name                                                         //declaring variables
+let age, name                                                         //declaring variables
 
-function happyBirthday(age, name){                                  //declaring a functon with arguments
-    console.log('happy', age,'birthday', name)
+function happyBirthday(age, name) {                                  //declaring a functon with arguments
+    console.log('happy', age, 'birthday', name)
 }
 
-happyBirthday(24,'lexmon-laudamon')                                 //calling of a funtion
+happyBirthday(24, 'lexmon-laudamon')                                 //calling of a funtion
 
 
 // return type
-let height,width
+let height, width
 
-function getArea(height,width){
-    return height*width
+function getArea(height, width) {
+    return height * width
 }
 
-console.log(getArea(10,20))
+console.log(getArea(10, 20))
