@@ -7,3 +7,13 @@ function happyBirthday(age, name){                                  //declaring 
 }
 
 happyBirthday(24,'lexmon-laudamon')                                 //calling of a funtion
+
+
+// return type
+let height,width
+
+function getArea(height,width){
+    return height*width
+}
+
+console.log(getArea(10,20))
