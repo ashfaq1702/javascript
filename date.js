@@ -1,4 +1,4 @@
-let myDate= new Date()
+let myDate = new Date()
 console.log(myDate)
 console.log(myDate.getFullYear())
 console.log(myDate.getDay())
